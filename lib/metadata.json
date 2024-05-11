@@ -1,0 +1,582 @@
+{
+  "vaultName": "al_bonnelly_ludwigsa",
+  "lastExport": 1715445264025,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager show-inline-title theme-dark",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "events/9thMay2024.md",
+    "events/dalibantweet.md",
+    "events/Destinycallshimselfisrael.md",
+    "events/Destinyclarifieshisissuewithludwig.md",
+    "events/DestinyPBUHrepoststhevideo.md",
+    "events/Destinypointsoutslimesredditcomments.md",
+    "events/DestinypostsapictureofQTcrying.md",
+    "events/Destinyrespondstoslime.md",
+    "events/Destinyresponsestoacommenterregardingludwig associations.md",
+    "events/Dggersvideo.md",
+    "events/Ludwigclaimsdestinysvibesareatrocious.md",
+    "events/Ludwigexitsthetwitterdrama.md",
+    "events/LUDWIGjoinsthefray..md",
+    "events/Ludwigrespondsaskingdestinyhowhiswifeis.md",
+    "events/Mutaharpostsafunnyreply.md",
+    "events/Slimepostsacroppedcuckmeme.md",
+    "events/Slimesyardepisoderedditcomments.md",
+    "events/Slimetweetsathread.md",
+    "images/alDestiny.png",
+    "images/cat.jpg",
+    "images/clones.png",
+    "images/cropCuck.jpg",
+    "images/ddf.png",
+    "images/dest1.png",
+    "images/dest2.png",
+    "images/dest3.png",
+    "images/dggchat.webp",
+    "images/fullCuck.jpg",
+    "images/gfs.jpg",
+    "images/luddawg.webp",
+    "images/ludslime.webp",
+    "images/ludSmash.png",
+    "images/ludwigLeaves.webp",
+    "images/mutahar.jpg",
+    "images/qt.jpg",
+    "images/repost.png",
+    "images/seansTweet.png",
+    "images/slime1.png",
+    "images/slimememe.jpg",
+    "images/slimeReddit.png",
+    "images/slimeredditCom.png",
+    "images/sonic.png",
+    "images/vibes.png",
+    "images/wikithumb.png",
+    "index.md",
+    "lib/media/dggchat.webp",
+    "lib/media/repost.png",
+    "lib/media/fullcuck.jpg",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "events/9thMay2024.md": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 389,
+      "exportedPath": "events/9thmay2024.html",
+      "dependencies": []
+    },
+    "events/dalibantweet.md": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 425,
+      "exportedPath": "events/dalibantweet.html",
+      "dependencies": []
+    },
+    "events/Destinycallshimselfisrael.md": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 303,
+      "exportedPath": "events/destinycallshimselfisrael.html",
+      "dependencies": [
+        "lib/media/dggchat.webp"
+      ]
+    },
+    "events/Destinyclarifieshisissuewithludwig.md": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 696,
+      "exportedPath": "events/destinyclarifieshisissuewithludwig.html",
+      "dependencies": []
+    },
+    "events/DestinyPBUHrepoststhevideo.md": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 492,
+      "exportedPath": "events/destinypbuhrepoststhevideo.html",
+      "dependencies": [
+        "lib/media/repost.png",
+        "lib/media/repost.png"
+      ]
+    },
+    "events/Destinypointsoutslimesredditcomments.md": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 553,
+      "exportedPath": "events/destinypointsoutslimesredditcomments.html",
+      "dependencies": []
+    },
+    "events/DestinypostsapictureofQTcrying.md": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 405,
+      "exportedPath": "events/destinypostsapictureofqtcrying.html",
+      "dependencies": []
+    },
+    "events/Destinyrespondstoslime.md": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 409,
+      "exportedPath": "events/destinyrespondstoslime.html",
+      "dependencies": []
+    },
+    "events/Destinyresponsestoacommenterregardingludwig associations.md": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 592,
+      "exportedPath": "events/destinyresponsestoacommenterregardingludwig-associations.html",
+      "dependencies": []
+    },
+    "events/Dggersvideo.md": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 542,
+      "exportedPath": "events/dggersvideo.html",
+      "dependencies": []
+    },
+    "events/Ludwigclaimsdestinysvibesareatrocious.md": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 285,
+      "exportedPath": "events/ludwigclaimsdestinysvibesareatrocious.html",
+      "dependencies": []
+    },
+    "events/Ludwigexitsthetwitterdrama.md": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 377,
+      "exportedPath": "events/ludwigexitsthetwitterdrama.html",
+      "dependencies": []
+    },
+    "events/LUDWIGjoinsthefray..md": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 405,
+      "exportedPath": "events/ludwigjoinsthefray..html",
+      "dependencies": []
+    },
+    "events/Ludwigrespondsaskingdestinyhowhiswifeis.md": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 437,
+      "exportedPath": "events/ludwigrespondsaskingdestinyhowhiswifeis.html",
+      "dependencies": []
+    },
+    "events/Mutaharpostsafunnyreply.md": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 395,
+      "exportedPath": "events/mutaharpostsafunnyreply.html",
+      "dependencies": []
+    },
+    "events/Slimepostsacroppedcuckmeme.md": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 434,
+      "exportedPath": "events/slimepostsacroppedcuckmeme.html",
+      "dependencies": [
+        "lib/media/fullcuck.jpg",
+        "lib/media/fullcuck.jpg"
+      ]
+    },
+    "events/Slimesyardepisoderedditcomments.md": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 1676,
+      "exportedPath": "events/slimesyardepisoderedditcomments.html",
+      "dependencies": []
+    },
+    "events/Slimetweetsathread.md": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 386,
+      "exportedPath": "events/slimetweetsathread.html",
+      "dependencies": []
+    },
+    "images/alDestiny.png": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 266370,
+      "exportedPath": "images/aldestiny.png",
+      "dependencies": []
+    },
+    "images/cat.jpg": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 429572,
+      "exportedPath": "images/cat.jpg",
+      "dependencies": []
+    },
+    "images/clones.png": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 680389,
+      "exportedPath": "images/clones.png",
+      "dependencies": []
+    },
+    "images/cropCuck.jpg": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 33833,
+      "exportedPath": "images/cropcuck.jpg",
+      "dependencies": []
+    },
+    "images/ddf.png": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 6527,
+      "exportedPath": "images/ddf.png",
+      "dependencies": []
+    },
+    "images/dest1.png": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 37939,
+      "exportedPath": "images/dest1.png",
+      "dependencies": []
+    },
+    "images/dest2.png": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 56300,
+      "exportedPath": "images/dest2.png",
+      "dependencies": []
+    },
+    "images/dest3.png": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 46725,
+      "exportedPath": "images/dest3.png",
+      "dependencies": []
+    },
+    "images/dggchat.webp": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 132358,
+      "exportedPath": "images/dggchat.webp",
+      "dependencies": []
+    },
+    "images/fullCuck.jpg": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 103746,
+      "exportedPath": "images/fullcuck.jpg",
+      "dependencies": []
+    },
+    "images/gfs.jpg": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 92681,
+      "exportedPath": "images/gfs.jpg",
+      "dependencies": []
+    },
+    "images/luddawg.webp": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 135852,
+      "exportedPath": "images/luddawg.webp",
+      "dependencies": []
+    },
+    "images/ludslime.webp": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 62300,
+      "exportedPath": "images/ludslime.webp",
+      "dependencies": []
+    },
+    "images/ludSmash.png": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 560229,
+      "exportedPath": "images/ludsmash.png",
+      "dependencies": []
+    },
+    "images/ludwigLeaves.webp": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 38960,
+      "exportedPath": "images/ludwigleaves.webp",
+      "dependencies": []
+    },
+    "images/mutahar.jpg": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 19641,
+      "exportedPath": "images/mutahar.jpg",
+      "dependencies": []
+    },
+    "images/qt.jpg": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 38364,
+      "exportedPath": "images/qt.jpg",
+      "dependencies": []
+    },
+    "images/repost.png": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 13757,
+      "exportedPath": "images/repost.png",
+      "dependencies": []
+    },
+    "images/seansTweet.png": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 14095,
+      "exportedPath": "images/seanstweet.png",
+      "dependencies": []
+    },
+    "images/slime1.png": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 41532,
+      "exportedPath": "images/slime1.png",
+      "dependencies": []
+    },
+    "images/slimememe.jpg": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 49784,
+      "exportedPath": "images/slimememe.jpg",
+      "dependencies": []
+    },
+    "images/slimeReddit.png": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 141094,
+      "exportedPath": "images/slimereddit.png",
+      "dependencies": []
+    },
+    "images/slimeredditCom.png": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 15959,
+      "exportedPath": "images/slimeredditcom.png",
+      "dependencies": []
+    },
+    "images/sonic.png": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 206687,
+      "exportedPath": "images/sonic.png",
+      "dependencies": []
+    },
+    "images/vibes.png": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 35467,
+      "exportedPath": "images/vibes.png",
+      "dependencies": []
+    },
+    "images/wikithumb.png": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 32109,
+      "exportedPath": "images/wikithumb.png",
+      "dependencies": []
+    },
+    "index.md": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 35,
+      "exportedPath": "index.html",
+      "dependencies": []
+    },
+    "lib/media/dggchat.webp": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 132358,
+      "exportedPath": "lib/media/dggchat.webp",
+      "dependencies": []
+    },
+    "lib/media/repost.png": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 13757,
+      "exportedPath": "lib/media/repost.png",
+      "dependencies": []
+    },
+    "lib/media/fullcuck.jpg": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 103746,
+      "exportedPath": "lib/media/fullcuck.jpg",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 17614,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 1643,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 157722,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 236,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1715445264025,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    }
+  }
+}
